@@ -58,6 +58,45 @@ O foco principal do grupo é a ~Caçada pelo Sangue de Prata~, o tão almejado s
          Apesar da potencial ameaça de sua criação, nem todo desejo se torna um Tulpa. É atualmente desconhecido o ponto de estopim para o início de seu desenvolvimento, mas nota-se um aumento no índice de relatos de Tulpa nos últimos íons.
          Tulpas podem tomar diversas formas, mas uma coisa é certa: as capacidades de muitos não parecem exibir um limite. É atualmente impossível uma categorização padrão para os Tulpas visto que cada um deles é único, visando apenas a realização do desejo de seu ~Incubador~. Portanto, dá-se aos Tulpas sua categoria única.
          Alguns dos relatos mais comuns da presença de Tulpas são dados como o desaparecimento de amigos e familiares seguido da sua reaparição e uma grande mudança de personalidade. Muitos desses casos podem acabar em acidentes, podendo esses serem fatais ou não.
-         Outros incidentes em maior escala também foram categorizados como Tulpas, como a [INSIRA AQUI UM NOME DAORA PRA INCIDENTE CATASTRÓFICO] e [OUTRO NOME], inexplicáveis até então.
+         Outros incidentes em maior escala também foram categorizados como Tulpas, como o [[id:4b729368-796a-449a-92f3-4e3fdf021561][Star-Blackout]] e [[id:53aa5937-2ed0-4f28-88a3-e1b1011ebfbb][O Cascão de 33]], inexplicáveis até então.
        - Bocosis
+         Uma doença que degrada o intelecto.
        - Gadictus
+         Um fenômeno que faz fêmeas que portam do ~sangue azul~ emitirem hormônios que encanta machos nos arredores, gerando efeito de manada. É observado que este efeito é categorizado pelo seu rastro hormonal marcante.
+
+         
+** TODO Bocosis
+Faça
+** TODO Gadictus
+Faça
+** INTEGRATE *O Cascão de 33*
+:PROPERTIES:
+:ID:       53aa5937-2ed0-4f28-88a3-e1b1011ebfbb
+:END:
+Um _homem de 33 anos_ fez um desejo que parecia simples: queria ter um *físico muscular inigualável*. No entanto, o resultado foi desastroso. Ele se transformou em um colosso, perdeu a capacidade de se comunicar e se tornou violento e irracional, produzindo grunhidos que ecoam até hoje nas memórias das vítimas: "[[https://youtu.be/zwvsa7DzzHY][BRRRRRR]]". 
+
+Sua aparência mudou *drasticamente*, tornando-se uma espécie de paródia de seu desejo original. Ele parecia um *sorvete de casquinha*, com um peitoral muscular exagerado e desproporcional ao resto do corpo. Infelizmente, muitas pessoas perderam a vida nesse evento trágico, onde o homem passou a ver os outros humanos como meras *fontes de proteína*.
+
+Este evento chocou o [[id:db6b2643-0574-46b6-8e26-d97d9812d2ad][Setor Sol]].
+
+# Local Variables:
+# jinx-local-words: "Cascão"
+# End:
+
+** WRITE Star-Blackout
+:PROPERTIES:
+:ID:       4b729368-796a-449a-92f3-4e3fdf021561
+:END:
+Ocorrido no antigo ~Setor Light~, atual [[id:5a2e11e9-2b0c-4197-bfde-caece9b8c02e][Setor Black]].
+
+Uma pessoa diagnosticada com _gogonha-aguda_, incapaz de sequer estar na mesma sala que outra pessoa sem se esconder, acabou desejando que ninguém jamais olhasse a ela, e, que a maior fonte de luz *se apague*. Fazem *10 anos* desde o ocorrido, desde então o setor mergulhou na escuridão e ninguém tem resposta alguma de como isso chegaria ao fim.
+
+** WRITE Setor Black
+:PROPERTIES:
+:ID:       5a2e11e9-2b0c-4197-bfde-caece9b8c02e
+:END:
+Antigo ~Setor Light~, um sistema onde a luz era mais luminosa que em muitas estrelas, era como um grande farol de esperança e produtor/exportador de energia elétrica sem poluição ao demais setores. Se tornou Setor Black após o [[id:4b729368-796a-449a-92f3-4e3fdf021561][Star-Blackout]].
+** WRITE Setor Sol
+:PROPERTIES:
+:ID:       db6b2643-0574-46b6-8e26-d97d9812d2ad
+:END:
