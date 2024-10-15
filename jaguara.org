@@ -37,19 +37,18 @@
      - [ ] =Categoria Picurrucho=
        *Criaturinhas que fazem prrrr.*
        - ~Categoria Abraço~
-	 *Pequenas criaturas completamente abraçáveis.*
+         *Pequenas criaturas completamente abraçáveis.*
  - [ ] Nações
    - Idiomas daora
-
+     
 ** TODO Xanderaron
 :PROPERTIES:
 :ID:       9d95adb8-319a-4a69-82f9-656e2722e0bb
 :END:
 *O Comedor de Mundos
 ** TODO *Raviluras*
-Um grupo especializado, criado aqueles que injetam o ~sangue azul~, poderosos porém não mais humanos e cada vez mais bestiais.
+Um grupo especializado, criado aqueles que injetam o ~sangue azul~, poderosos porém não mais humanos e cada vez mais bestiais [por conta do sangue azul].
 O foco principal do grupo é a ~Caçada pelo Sangue de Prata~, o tão almejado sangue de [[id:9d95adb8-319a-4a69-82f9-656e2722e0bb][Xanderaron]]. É dito que o Ravilura que ingerir este sangue, atingirá o ~Apotheosis~. Esta caçada levou a criação do ~Grêmio Mercantil~, um mercado gigantesco que +extermina+ comercializa partes orgânicas das [[id:609a0ab7-3fe7-4e9d-8d9f-1c2208238cc1][Bestas.]]
-
 
 * Brainstorming
      - Possíveis nomes
