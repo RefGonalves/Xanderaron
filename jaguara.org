@@ -10,6 +10,7 @@
      - =Categoria Tchutchuco=
        *Criaturas que conseguem manipular a realidade. Possivelmente têm intelecto.*
      - =Categoria Chefe É Chefe=
+       *Se você se ajoelhar, provavelmente não vai morrer.*
      - =Categoria Evacuação Precoce=
        *Quando eu vi, se caguei.*
      - =Categoria Corre Negada=
@@ -26,3 +27,11 @@
 	 *Pequenas criaturas completamente abraçáveis.*
  - [ ] Nações
    - Idiomas daora
+     
+* Brainstorming
+     - Possíveis nomes
+       - Corinthians
+       - =Tulpa=
+         - Tulpas são tudo aquilo que nós desejamos que exista. Eles servem única e restritamente para 
+       - Bocosis
+       - Gadictus
