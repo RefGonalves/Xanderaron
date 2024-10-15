@@ -5,42 +5,42 @@
 :PROPERTIES:
 :ID:       609a0ab7-3fe7-4e9d-8d9f-1c2208238cc1
 :END:
- - [ ] Bestiário [0/1]
-   - [ ] Categorias
-     - [ ] =Xanderaron=
-       *Único e mitológico, Xanderaron é A BESTA*
-     - [ ] =Bababooey (terror)=
-       *Até o próprio fim acabou.*
-       1
-       2
-       3
-       4
-       5
-     - [ ] =Categoria Apocalipse=
-       *Tá tudo acabado.*
-     - [ ] =Categoria Entidade=
-       *Provavelmente algum culto venera essa coisa.*
-     - [ ] =Categoria Tchutchuco=
-       *Criaturas que conseguem manipular a realidade. Possivelmente têm intelecto.*
-     - [ ] =Categoria Chefe É Chefe=
-       *Se você se ajoelhar, provavelmente não vai morrer.*
-     - [ ] =Categoria Evacuação Precoce=
-       *Quando eu vi, se caguei.*
-     - [ ] =Categoria Corre Negada=
-       *Criaturas grandes que, provavelmente, vão te devorar.*
-     - [ ] =Categoria Jaguara=
-       *Criaturas fuleiras.*
-     - [ ] =Categoria Piriguaio=
-       *¯\_(ツ)_/¯*
-     - [ ] =Categoria Suave na Nave=
-       *Herbívoros.*
-     - [ ] =Categoria Picurrucho=
-       *Criaturinhas que fazem prrrr.*
-       - ~Categoria Abraço~
-         *Pequenas criaturas completamente abraçáveis.*
- - [ ] Nações
-   - Idiomas daora
-     
+- [ ] Bestiário [0/1]
+  - [ ] Categorias
+    - [ ] =Xanderaron=
+      *Único e mitológico, Xanderaron é A BESTA*
+    - [ ] =Bababooey (terror)=
+      *Até o próprio fim acabou.*
+      1
+      2
+      3
+      4
+      5
+    - [ ] =Categoria Apocalipse=
+      *Tá tudo acabado.*
+    - [ ] =Categoria Entidade=
+      *Provavelmente algum culto venera essa coisa.*
+    - [ ] =Categoria Tchutchuco=
+      *Criaturas que conseguem manipular a realidade. Possivelmente têm intelecto.*
+    - [ ] =Categoria Chefe É Chefe=
+      *Se você se ajoelhar, provavelmente não vai morrer.*
+    - [ ] =Categoria Evacuação Precoce=
+      *Quando eu vi, se caguei.*
+    - [ ] =Categoria Corre Negada=
+      *Criaturas grandes que, provavelmente, vão te devorar.*
+    - [ ] =Categoria Jaguara=
+      *Criaturas fuleiras.*
+    - [ ] =Categoria Piriguaio=
+      *¯\_(ツ)_/¯*
+    - [ ] =Categoria Suave na Nave=
+      *Herbívoros.*
+    - [ ] =Categoria Picurrucho=
+      *Criaturinhas que fazem prrrr.*
+      - ~Categoria Abraço~
+        *Pequenas criaturas completamente abraçáveis.*
+- [ ] Nações
+  - Idiomas daora
+
 ** TODO Xanderaron
 :PROPERTIES:
 :ID:       9d95adb8-319a-4a69-82f9-656e2722e0bb
@@ -51,20 +51,20 @@ Um grupo especializado, criado aqueles que injetam o ~sangue azul~, poderosos po
 O foco principal do grupo é a ~Caçada pelo Sangue de Prata~, o tão almejado sangue de [[id:9d95adb8-319a-4a69-82f9-656e2722e0bb][Xanderaron]]. É dito que o Ravilura que ingerir este sangue, atingirá o ~Apotheosis~. Esta caçada levou a criação do ~Grêmio Mercantil~, um mercado gigantesco que +extermina+ comercializa partes orgânicas das [[id:609a0ab7-3fe7-4e9d-8d9f-1c2208238cc1][Bestas.]]
 
 * Brainstorming
-     - Possíveis nomes
-       - Corinthians
-       - [ ] =Tulpa=
-         Tulpas são uma forma de manifestação do maior desejo de toda e qualquer entidade existente. Eles se formam a partir da força de vontade de cada ~Incubador~ e eles existem única e exclusivamente enquanto sua principal função ainda puder ser realizada. No instante em que seu trabalho não é mais possível, se abandona a existência.
-         Apesar da potencial ameaça de sua criação, nem todo desejo se torna um Tulpa. É atualmente desconhecido o ponto de estopim para o início de seu desenvolvimento, mas nota-se um aumento no índice de relatos de Tulpa nos últimos íons.
-         Tulpas podem tomar diversas formas, mas uma coisa é certa: as capacidades de muitos não parecem exibir um limite. É atualmente impossível uma categorização padrão para os Tulpas visto que cada um deles é único, visando apenas a realização do desejo de seu ~Incubador~. Portanto, dá-se aos Tulpas sua categoria única.
-         Alguns dos relatos mais comuns da presença de Tulpas são dados como o desaparecimento de amigos e familiares seguido da sua reaparição e uma grande mudança de personalidade. Muitos desses casos podem acabar em acidentes, podendo esses serem fatais ou não.
-         Outros incidentes em maior escala também foram categorizados como Tulpas, como o [[id:4b729368-796a-449a-92f3-4e3fdf021561][Star-Blackout]] e [[id:53aa5937-2ed0-4f28-88a3-e1b1011ebfbb][O Cascão de 33]], inexplicáveis até então.
-       - Bocosis
-         Uma doença que degrada o intelecto.
-       - Gadictus
-         Um fenômeno que faz fêmeas que portam do ~sangue azul~ emitirem hormônios que encanta machos nos arredores, gerando efeito de manada. É observado que este efeito é categorizado pelo seu rastro hormonal marcante.
+- Possíveis nomes
+  - Corinthians
+  - [ ] =Tulpa=
+    Tulpas são uma forma de manifestação do maior desejo de toda e qualquer entidade existente. Eles se formam a partir da força de vontade de cada ~Incubador~ e eles existem única e exclusivamente enquanto sua principal função ainda puder ser realizada. No instante em que seu trabalho não é mais possível, se abandona a existência.
+    Apesar da potencial ameaça de sua criação, nem todo desejo se torna um Tulpa. É atualmente desconhecido o ponto de estopim para o início de seu desenvolvimento, mas nota-se um aumento no índice de relatos de Tulpa nos últimos íons.
+    Tulpas podem tomar diversas formas, mas uma coisa é certa: as capacidades de muitos não parecem exibir um limite. É atualmente impossível uma categorização padrão para os Tulpas visto que cada um deles é único, visando apenas a realização do desejo de seu ~Incubador~. Portanto, dá-se aos Tulpas sua categoria única.
+    Alguns dos relatos mais comuns da presença de Tulpas são dados como o desaparecimento de amigos e familiares seguido da sua reaparição e uma grande mudança de personalidade. Muitos desses casos podem acabar em acidentes, podendo esses serem fatais ou não.
+    Outros incidentes em maior escala também foram categorizados como Tulpas, como o [[id:4b729368-796a-449a-92f3-4e3fdf021561][Star-Blackout]] e [[id:53aa5937-2ed0-4f28-88a3-e1b1011ebfbb][O Cascão de 33]], inexplicáveis até então.
+  - Bocosis
+    Uma doença que degrada o intelecto.
+  - Gadictus
+    Um fenômeno que faz fêmeas que portam do ~sangue azul~ emitirem hormônios que encanta machos nos arredores, gerando efeito de manada. É observado que este efeito é categorizado pelo seu rastro hormonal marcante.
 
-         
+
 ** TODO Bocosis
 Faça
 ** TODO Gadictus
