@@ -1,0 +1,28 @@
+* TODO Introdução
+ - [ ] Bestiário
+   - Categorias
+     - =Bababooey (terror)=
+       *Até o próprio fim acabou.*
+     - =Categoria Apocalipse=
+       *Tá tudo acabado.*
+     - =Categoria Entidade=
+       *Provavelmente algum culto venera essa coisa.*
+     - =Categoria Tchutchuco=
+       *Criaturas que conseguem manipular a realidade. Possivelmente têm intelecto.*
+     - =Categoria Chefe É Chefe=
+     - =Categoria Evacuação Precoce=
+       *Quando eu vi, se caguei.*
+     - =Categoria Corre Negada=
+       *Criaturas grandes que, provavelmente, vão te devorar.*
+     - =Categoria Jaguara=
+       *Criaturas fuleiras.*
+     - =Categoria Piriguaio=
+       *¯\_(ツ)_/¯*
+     - =Categoria Suave na Nave=
+       *Herbívoros.*
+     - =Categoria Picurrucho=
+       *Criaturinhas que fazem prrrr.*
+       - ~Categoria Abraço~
+	 *Pequenas criaturas completamente abraçáveis.*
+ - [ ] Nações
+   - Idiomas daora
