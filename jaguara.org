@@ -40,15 +40,6 @@
 	 *Pequenas criaturas completamente abraçáveis.*
  - [ ] Nações
    - Idiomas daora
-     
-* Brainstorming
-     - Possíveis nomes
-       - Corinthians
-       - =Tulpa=
-         - Tulpas são tudo aquilo que nós desejamos que exista. Eles servem única e restritamente para 
-       - Bocosis
-       - Gadictus
-   - [ ] Idiomas daora
 
 ** TODO Xanderaron
 :PROPERTIES:
@@ -58,3 +49,16 @@
 ** TODO *Raviluras*
 Um grupo especializado, criado aqueles que injetam o ~sangue azul~, poderosos porém não mais humanos e cada vez mais bestiais.
 O foco principal do grupo é a ~Caçada pelo Sangue de Prata~, o tão almejado sangue de [[id:9d95adb8-319a-4a69-82f9-656e2722e0bb][Xanderaron]]. É dito que o Ravilura que ingerir este sangue, atingirá o ~Apotheosis~. Esta caçada levou a criação do ~Grêmio Mercantil~, um mercado gigantesco que +extermina+ comercializa partes orgânicas das [[id:609a0ab7-3fe7-4e9d-8d9f-1c2208238cc1][Bestas.]]
+
+
+* Brainstorming
+     - Possíveis nomes
+       - Corinthians
+       - [ ] =Tulpa=
+         Tulpas são uma forma de manifestação do maior desejo de toda e qualquer entidade existente. Eles se formam a partir da força de vontade de cada ~Incubador~ e eles existem única e exclusivamente enquanto sua principal função ainda puder ser realizada. No instante em que seu trabalho não é mais possível, se abandona a existência.
+         Apesar da potencial ameaça de sua criação, nem todo desejo se torna um Tulpa. É atualmente desconhecido o ponto de estopim para o início de seu desenvolvimento, mas nota-se um aumento no índice de relatos de Tulpa nos últimos íons.
+         Tulpas podem tomar diversas formas, mas uma coisa é certa: as capacidades de muitos não parecem exibir um limite. É atualmente impossível uma categorização padrão para os Tulpas visto que cada um deles é único, visando apenas a realização do desejo de seu ~Incubador~. Portanto, dá-se aos Tulpas sua categoria única.
+         Alguns dos relatos mais comuns da presença de Tulpas são dados como o desaparecimento de amigos e familiares seguido da sua reaparição e uma grande mudança de personalidade. Muitos desses casos podem acabar em acidentes, podendo esses serem fatais ou não.
+         Outros incidentes em maior escala também foram categorizados como Tulpas, como a [INSIRA AQUI UM NOME DAORA PRA INCIDENTE CATASTRÓFICO] e [OUTRO NOME], inexplicáveis até então.
+       - Bocosis
+       - Gadictus
