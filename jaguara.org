@@ -1,27 +1,40 @@
 * TODO Introdução
- - [ ] Bestiário
-   - Categorias
-     - =Bababooey (terror)=
+*Xanderaron* é o nome do mundo, forjado sob o nome lendário da maior criatura mitológica. Aquele que devora mundos, um buraco negro em forma de carne, nenhum olho viu e resistiu.
+
+** TODO Bestas
+:PROPERTIES:
+:ID:       609a0ab7-3fe7-4e9d-8d9f-1c2208238cc1
+:END:
+ - [ ] Bestiário [0/1]
+   - [ ] Categorias
+     - [ ] =Xanderaron=
+       *Único e mitológico, Xanderaron é A BESTA*
+     - [ ] =Bababooey (terror)=
        *Até o próprio fim acabou.*
-     - =Categoria Apocalipse=
+       1
+       2
+       3
+       4
+       5
+     - [ ] =Categoria Apocalipse=
        *Tá tudo acabado.*
-     - =Categoria Entidade=
+     - [ ] =Categoria Entidade=
        *Provavelmente algum culto venera essa coisa.*
-     - =Categoria Tchutchuco=
+     - [ ] =Categoria Tchutchuco=
        *Criaturas que conseguem manipular a realidade. Possivelmente têm intelecto.*
-     - =Categoria Chefe É Chefe=
+     - [ ] =Categoria Chefe É Chefe=
        *Se você se ajoelhar, provavelmente não vai morrer.*
-     - =Categoria Evacuação Precoce=
+     - [ ] =Categoria Evacuação Precoce=
        *Quando eu vi, se caguei.*
-     - =Categoria Corre Negada=
+     - [ ] =Categoria Corre Negada=
        *Criaturas grandes que, provavelmente, vão te devorar.*
-     - =Categoria Jaguara=
+     - [ ] =Categoria Jaguara=
        *Criaturas fuleiras.*
-     - =Categoria Piriguaio=
+     - [ ] =Categoria Piriguaio=
        *¯\_(ツ)_/¯*
-     - =Categoria Suave na Nave=
+     - [ ] =Categoria Suave na Nave=
        *Herbívoros.*
-     - =Categoria Picurrucho=
+     - [ ] =Categoria Picurrucho=
        *Criaturinhas que fazem prrrr.*
        - ~Categoria Abraço~
 	 *Pequenas criaturas completamente abraçáveis.*
@@ -35,3 +48,13 @@
          - Tulpas são tudo aquilo que nós desejamos que exista. Eles servem única e restritamente para 
        - Bocosis
        - Gadictus
+   - [ ] Idiomas daora
+
+** TODO Xanderaron
+:PROPERTIES:
+:ID:       9d95adb8-319a-4a69-82f9-656e2722e0bb
+:END:
+*O Comedor de Mundos
+** TODO *Raviluras*
+Um grupo especializado, criado aqueles que injetam o ~sangue azul~, poderosos porém não mais humanos e cada vez mais bestiais.
+O foco principal do grupo é a ~Caçada pelo Sangue de Prata~, o tão almejado sangue de [[id:9d95adb8-319a-4a69-82f9-656e2722e0bb][Xanderaron]]. É dito que o Ravilura que ingerir este sangue, atingirá o ~Apotheosis~. Esta caçada levou a criação do ~Grêmio Mercantil~, um mercado gigantesco que +extermina+ comercializa partes orgânicas das [[id:609a0ab7-3fe7-4e9d-8d9f-1c2208238cc1][Bestas.]]
